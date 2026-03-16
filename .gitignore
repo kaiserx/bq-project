@@ -1,0 +1,18 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# GCP credentials (never commit these)
+*.json
+.env
+
+# Evidence screenshots (add manually)
+evidence/screenshots/
+
+# Mac/Windows junk
+.DS_Store
+Thumbs.db
