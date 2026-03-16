@@ -16,3 +16,4 @@ evidence/screenshots/
 # Mac/Windows junk
 .DS_Store
 Thumbs.db
+*.bak
